@@ -25,13 +25,16 @@ Follow these steps to run the application locally:
    git clone https://github.com/saishankargogada/Job_Board_Lokal_React_Native_Assignment.git
 
 2.  **Create the App using Expo:**
-    ```npx create-expo-app@latest
+    ```bash
+    npx create-expo-app@latest
 
 3.  **Install Dependencies:**
-    ```npm install
+    ```bash
+    npm install
 
 4.  **Start the Expo Project:**
-    ```npm expo start
+    ```bash
+    npm expo start
 
 Functional Requirements
 1. Navigation
