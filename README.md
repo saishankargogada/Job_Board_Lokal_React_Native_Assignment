@@ -58,3 +58,6 @@ Handle loading, error, and empty data states gracefully.
 Design and UX
 The UI/UX is designed to be user-friendly and intuitive.
 Library selection for styling is flexible (e.g., React Native Paper, Styled Components, etc.).
+
+Video demonstrating the features and functionality of the application. You can watch the video here
+https://drive.google.com/file/d/17WDStoLM2VCGdvtZ4UYtDZOiqYC_oKep/view?usp=sharing
